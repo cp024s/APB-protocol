@@ -1,6 +1,4 @@
-# APB-protocol-verification
-
-Creating a complete RTL project and a SystemVerilog (SV) UVM (Universal Verification Methodology) testbench for an AHB-APB bridge verification is a complex task, and it's beyond the scope of a single response. However, I can provide you with a high-level architecture outline for both the RTL design and the UVM testbench to help you get started. You'll need to expand on these outlines and adapt them to your specific project requirements.
+# APB-protocol
 
 ### RTL Project Architecture:
 
